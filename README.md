@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shruti
+- 👋 Hi, I’m Shruti,
 - 👀 I’m interested in analyzing data to uncover hidden trends and patterns, applying machine learning to predict future trends and transform how we understand the world.
 - 🌱 I’m currently learning the art of storytelling with data, using advanced visualization techniques to make engaging interactive dashboards.
 - 💞️ I’m looking to collaborate on a groundbreaking project using data analytics to solve real-world problems.
